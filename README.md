@@ -2,8 +2,6 @@
 
 ### A passionate mobile app developer from Turkey
 
-- 🔭 I'm currently working on **Capybara Orchestra**
-
 - 📫 How to reach me **dereci@memin.dev**
 
 - ⚡ Fun fact **Passionate about chess strategies, camera clicks, and competitive games!**
